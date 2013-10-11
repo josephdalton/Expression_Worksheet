@@ -1,6 +1,5 @@
-var size 8.5in 11.0in;
-var margin 1.0 1.25in 1.25in;
-var header margin .5;
-var footer margin .5;
-console.log (size margins);
+var size = 8.5 + 11.0;
+var margin  = 1.0 + 1.25 + 1.25;
+var header = .5;
+var footer = .5;
 
